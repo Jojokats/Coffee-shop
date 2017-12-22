@@ -182,7 +182,8 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .beans-btn {
-      font-size: 1rem;
+      font-size: 1.2rem;
+      padding: 8px 15px;
       color: $white;
       font-family: 'Istok Web', sans-serif;
       margin-top: 20px;
@@ -294,6 +295,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   .blog-btn {
+    font-size: 1.2rem;
+    padding: 8px 15px;
     color: $white;
     font-family: 'Istok Web', sans-serif;
     background-color: $btn-bg-color;
@@ -331,6 +334,7 @@ h1, h2, h3, h4, h5, h6 {
 
   h4 {
     color: $btn-bg-color;
+    letter-spacing: 1px;
   }
   p {
     padding-bottom: 10px;
@@ -356,6 +360,8 @@ h1, h2, h3, h4, h5, h6 {
    }
 
    .footer-btn {
+     font-size: 1.2rem;
+     padding: 6px 8px;
      margin-top: 15px;
      color: $white;
      font-family: 'Istok Web', sans-serif;

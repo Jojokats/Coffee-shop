@@ -133,7 +133,8 @@ h1, h2, h3, h4, h5, h6 {
   #info-beans .beans p {
     font-size: 1.2rem; }
   #info-beans .beans .beans-btn {
-    font-size: 1rem;
+    font-size: 1.2rem;
+    padding: 8px 15px;
     color: #fff;
     font-family: 'Istok Web', sans-serif;
     margin-top: 20px;
@@ -216,6 +217,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 60px; }
 
 #blog .blog-btn {
+  font-size: 1.2rem;
+  padding: 8px 15px;
   color: #fff;
   font-family: 'Istok Web', sans-serif;
   background-color: #F59E5B;
@@ -242,7 +245,8 @@ h1, h2, h3, h4, h5, h6 {
     padding-bottom: 40px;
     text-transform: uppercase; }
   #footer h4 {
-    color: #F59E5B; }
+    color: #F59E5B;
+    letter-spacing: 1px; }
   #footer p {
     padding-bottom: 10px; }
   #footer p:last-child {
@@ -258,6 +262,8 @@ h1, h2, h3, h4, h5, h6 {
   #footer .footer-contact {
     background-color: #13141B; }
   #footer .footer-btn {
+    font-size: 1.2rem;
+    padding: 6px 8px;
     margin-top: 15px;
     color: #fff;
     font-family: 'Istok Web', sans-serif;
